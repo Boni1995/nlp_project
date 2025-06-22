@@ -1,0 +1,3 @@
+https://github.com/abenassi/scraper-casa-rosada/blob/master/scraper.py
+
+https://www.casarosada.gob.ar/informacion/discursos
