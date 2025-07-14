@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+torch
+Transformers
+nltk
+pipeline
+huggingface_hub[hf_xet]
+sacremoses
+tqdm
+joblib
